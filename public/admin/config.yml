@@ -2,6 +2,7 @@ backend:
   name: github
   repo: jamesfittio/jamesfitt.io
   branch: main
+  base_url: https://auth.jamesfitt.io
 
 media_folder: public/images
 public_folder: /images
